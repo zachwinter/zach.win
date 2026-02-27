@@ -4,9 +4,9 @@ body {
 	color: #fff;
 }
 
-body *,
-body *:before,
-body *:after {
+*,
+*:before,
+*:after {
 	margin: 0;
 	padding: 0;
 	box-sizing: 0;
